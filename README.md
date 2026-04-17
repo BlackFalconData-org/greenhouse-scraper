@@ -2,11 +2,12 @@
 
 Scrape job listings from Greenhouse-powered career sites. Free public API, no proxy needed. Salary data, departments, questions, metadata.
 
-**[Greenhouse Scraper on Apify →](https://apify.com/blackfalcondata/greenhouse-scraper)**
+**[Greenhouse Scraper - Career Site Jobs on Apify →](https://apify.com/blackfalcondata/greenhouse-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Scrape job listings from Greenhouse-powered career sites. Free public API, no pr
 ---
 
 ## Use cases
+
 
 
 
@@ -77,6 +79,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
